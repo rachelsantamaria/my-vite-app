@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "It",
+    "year": 2017,
+    "director": "Andy Muschietti",
+    "duration": 135,
+    "genre": "Horror, Supernatural",
+    "rating": 7.3,
+    "posterUrl": "/images/ITPoster.jpg",
+    "description": "A group of bullied kids face a shape-shifting monster in their town.",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Coraline",
+    "year": 2009,
+    "director": "Henry Selick",
+    "duration": 100,
+    "genre": "Animation, Fantasy, Horror",
+    "rating": 7.7,
+    "posterUrl": "/images/CoralinePoster.jpg",
+    "description": "A young girl discovers a mysterious parallel world behind a secret door.",
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "The Boy",
+    "year": 2016,
+    "director": "William Brent Bell",
+    "duration": 97,
+    "genre": "Horror, Thriller",
+    "rating": 6.0,
+    "posterUrl": "/images/TheBoyPoster.jpg",
+    "description": "A nanny discovers a dark secret about the child she is hired to care for.",
+    "available": false
+  },
+  {
+    "id": 4,
+    "title": "The Conjuring",
+    "year": 2013,
+    "director": "James Wan",
+    "duration": 112,
+    "genre": "Horror, Supernatural",
+    "rating": 7.5,
+    "posterUrl": "/images/TheConjuringPoster.jpg",
+    "description": "Paranormal investigators help a family terrorized by a dark presence.",
+    "available": true
+  }
+]
